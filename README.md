@@ -1,0 +1,1 @@
+Neste repositorio irei deixar salvo a minha linha do tempo de aprendizagem na linguagem de python. Curso: Python 3 do básico ao avançado - Professor: Luiz Otávio Miranda - Instituição de ensino: Udemy
